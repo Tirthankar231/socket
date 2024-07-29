@@ -1,0 +1,26 @@
+{
+  "name": "socket-chat-example",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tirthankar231/socket.git"
+  },
+  "author": "Tirthankar Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tirthankar231/socket/issues"
+  },
+  "homepage": "https://github.com/Tirthankar231/socket#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4",
+    "socket.io": "^4.7.5"
+  }
+}
