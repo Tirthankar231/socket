@@ -31,13 +31,13 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/real-time-chat-app.git
+    https://github.com/Tirthankar231/socket.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd real-time-chat-app
+    cd socket
     ```
 
 3. Install the required dependencies:
